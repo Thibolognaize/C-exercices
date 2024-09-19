@@ -1,0 +1,7 @@
+C:\Users\thiba\source\repos\NombreCache\NombreCache\bin\Debug\NombreCache.exe.config
+C:\Users\thiba\source\repos\NombreCache\NombreCache\bin\Debug\NombreCache.exe
+C:\Users\thiba\source\repos\NombreCache\NombreCache\bin\Debug\NombreCache.pdb
+C:\Users\thiba\source\repos\NombreCache\NombreCache\obj\Debug\NombreCache.csproj.AssemblyReference.cache
+C:\Users\thiba\source\repos\NombreCache\NombreCache\obj\Debug\NombreCache.csproj.CoreCompileInputs.cache
+C:\Users\thiba\source\repos\NombreCache\NombreCache\obj\Debug\NombreCache.exe
+C:\Users\thiba\source\repos\NombreCache\NombreCache\obj\Debug\NombreCache.pdb
