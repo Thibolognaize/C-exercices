@@ -1,0 +1,7 @@
+C:\Users\thiba\source\repos\Exercice2\Exercice2\bin\Debug\Exercice2.exe.config
+C:\Users\thiba\source\repos\Exercice2\Exercice2\bin\Debug\Exercice2.exe
+C:\Users\thiba\source\repos\Exercice2\Exercice2\bin\Debug\Exercice2.pdb
+C:\Users\thiba\source\repos\Exercice2\Exercice2\obj\Debug\Exercice2.csproj.AssemblyReference.cache
+C:\Users\thiba\source\repos\Exercice2\Exercice2\obj\Debug\Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\thiba\source\repos\Exercice2\Exercice2\obj\Debug\Exercice2.exe
+C:\Users\thiba\source\repos\Exercice2\Exercice2\obj\Debug\Exercice2.pdb

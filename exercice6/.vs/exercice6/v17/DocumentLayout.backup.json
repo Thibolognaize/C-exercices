@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiba\\source\\repos\\exerices\\exercice6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3A2556-733D-4D51-B0DC-E7AFC02A8B91}|exercice6\\exercice6.csproj|c:\\users\\thiba\\source\\repos\\exerices\\exercice6\\exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3A2556-733D-4D51-B0DC-E7AFC02A8B91}|exercice6\\exercice6.csproj|solutionrelative:exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiba\\source\\repos\\exerices\\exercice6\\exercice6\\Program.cs",
+              "RelativeDocumentMoniker": "exercice6\\Program.cs",
+              "ToolTip": "C:\\Users\\thiba\\source\\repos\\exerices\\exercice6\\exercice6\\Program.cs",
+              "RelativeToolTip": "exercice6\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAuwGgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:53:51.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
