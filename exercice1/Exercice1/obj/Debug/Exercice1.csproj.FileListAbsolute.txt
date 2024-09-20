@@ -1,0 +1,14 @@
+C:\Users\thiba\source\repos\Exercices\Exercice1\bin\Debug\Exercice1.exe.config
+C:\Users\thiba\source\repos\Exercices\Exercice1\bin\Debug\Exercice1.exe
+C:\Users\thiba\source\repos\Exercices\Exercice1\bin\Debug\Exercice1.pdb
+C:\Users\thiba\source\repos\Exercices\Exercice1\obj\Debug\Exercice1.csproj.AssemblyReference.cache
+C:\Users\thiba\source\repos\Exercices\Exercice1\obj\Debug\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\thiba\source\repos\Exercices\Exercice1\obj\Debug\Exercice1.exe
+C:\Users\thiba\source\repos\Exercices\Exercice1\obj\Debug\Exercice1.pdb
+C:\Users\thiba\source\repos\exerices\exercice1\Exercice1\bin\Debug\Exercice1.exe.config
+C:\Users\thiba\source\repos\exerices\exercice1\Exercice1\bin\Debug\Exercice1.exe
+C:\Users\thiba\source\repos\exerices\exercice1\Exercice1\bin\Debug\Exercice1.pdb
+C:\Users\thiba\source\repos\exerices\exercice1\Exercice1\obj\Debug\Exercice1.csproj.AssemblyReference.cache
+C:\Users\thiba\source\repos\exerices\exercice1\Exercice1\obj\Debug\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\thiba\source\repos\exerices\exercice1\Exercice1\obj\Debug\Exercice1.exe
+C:\Users\thiba\source\repos\exerices\exercice1\Exercice1\obj\Debug\Exercice1.pdb
